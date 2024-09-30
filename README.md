@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![DBH's GitHub stats](https://github-readme-stats.vercel.app/api?username=chentonny)
 ## 简介
 
 刀巴虎的dataParadise是一套基于时下**最新** Java 技术栈 Spring Boot 3 + Vue 3 开发的前后端分离**学习型**
